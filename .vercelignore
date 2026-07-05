@@ -1,0 +1,8 @@
+node_modules/
+.git/
+.vercel/
+.superpowers/
+scripts/
+tests/
+package.json
+pnpm-lock.yaml
