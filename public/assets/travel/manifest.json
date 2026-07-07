@@ -3,9 +3,9 @@
     "src": "assets/travel/travel-01.jpg",
     "title": "旅行瞬间 01",
     "alt": "王旭个人旅行相册照片 01",
-    "width": 1279,
-    "height": 1706,
-    "bytes": 311436
+    "width": 1440,
+    "height": 1080,
+    "bytes": 395818
   },
   {
     "src": "assets/travel/travel-02.jpg",
@@ -13,7 +13,7 @@
     "alt": "王旭个人旅行相册照片 02",
     "width": 1279,
     "height": 1706,
-    "bytes": 196590
+    "bytes": 772616
   },
   {
     "src": "assets/travel/travel-03.jpg",
@@ -21,31 +21,31 @@
     "alt": "王旭个人旅行相册照片 03",
     "width": 1279,
     "height": 1706,
-    "bytes": 336117
+    "bytes": 364962
   },
   {
     "src": "assets/travel/travel-04.jpg",
     "title": "旅行瞬间 04",
     "alt": "王旭个人旅行相册照片 04",
-    "width": 1279,
-    "height": 1706,
-    "bytes": 634148
+    "width": 1440,
+    "height": 1080,
+    "bytes": 189235
   },
   {
     "src": "assets/travel/travel-05.jpg",
     "title": "旅行瞬间 05",
     "alt": "王旭个人旅行相册照片 05",
-    "width": 1279,
-    "height": 1706,
-    "bytes": 252138
+    "width": 1080,
+    "height": 1440,
+    "bytes": 238259
   },
   {
     "src": "assets/travel/travel-06.jpg",
     "title": "旅行瞬间 06",
     "alt": "王旭个人旅行相册照片 06",
     "width": 1279,
-    "height": 1597,
-    "bytes": 158161
+    "height": 1706,
+    "bytes": 664980
   },
   {
     "src": "assets/travel/travel-07.jpg",
@@ -53,7 +53,7 @@
     "alt": "王旭个人旅行相册照片 07",
     "width": 1279,
     "height": 1706,
-    "bytes": 225450
+    "bytes": 595999
   },
   {
     "src": "assets/travel/travel-08.jpg",
@@ -61,15 +61,15 @@
     "alt": "王旭个人旅行相册照片 08",
     "width": 1706,
     "height": 1279,
-    "bytes": 170465
+    "bytes": 184307
   },
   {
     "src": "assets/travel/travel-09.jpg",
     "title": "旅行瞬间 09",
     "alt": "王旭个人旅行相册照片 09",
-    "width": 1279,
-    "height": 1706,
-    "bytes": 170725
+    "width": 1080,
+    "height": 1440,
+    "bytes": 302816
   },
   {
     "src": "assets/travel/travel-10.jpg",
@@ -77,7 +77,7 @@
     "alt": "王旭个人旅行相册照片 10",
     "width": 1279,
     "height": 1706,
-    "bytes": 267183
+    "bytes": 446926
   },
   {
     "src": "assets/travel/travel-11.jpg",
@@ -85,15 +85,15 @@
     "alt": "王旭个人旅行相册照片 11",
     "width": 1279,
     "height": 1706,
-    "bytes": 47416
+    "bytes": 221353
   },
   {
     "src": "assets/travel/travel-12.jpg",
     "title": "旅行瞬间 12",
     "alt": "王旭个人旅行相册照片 12",
-    "width": 1706,
-    "height": 1279,
-    "bytes": 168629
+    "width": 1080,
+    "height": 1440,
+    "bytes": 94933
   },
   {
     "src": "assets/travel/travel-13.jpg",
@@ -101,7 +101,7 @@
     "alt": "王旭个人旅行相册照片 13",
     "width": 1279,
     "height": 1706,
-    "bytes": 341245
+    "bytes": 676217
   },
   {
     "src": "assets/travel/travel-14.jpg",
@@ -109,15 +109,15 @@
     "alt": "王旭个人旅行相册照片 14",
     "width": 1279,
     "height": 1706,
-    "bytes": 351534
+    "bytes": 146119
   },
   {
     "src": "assets/travel/travel-15.jpg",
     "title": "旅行瞬间 15",
     "alt": "王旭个人旅行相册照片 15",
-    "width": 1279,
-    "height": 1706,
-    "bytes": 123712
+    "width": 1706,
+    "height": 1279,
+    "bytes": 468393
   },
   {
     "src": "assets/travel/travel-16.jpg",
@@ -125,6 +125,38 @@
     "alt": "王旭个人旅行相册照片 16",
     "width": 1279,
     "height": 1706,
-    "bytes": 378372
+    "bytes": 895383
+  },
+  {
+    "src": "assets/travel/travel-17.jpg",
+    "title": "旅行瞬间 17",
+    "alt": "王旭个人旅行相册照片 17",
+    "width": 1279,
+    "height": 1706,
+    "bytes": 382634
+  },
+  {
+    "src": "assets/travel/travel-18.jpg",
+    "title": "旅行瞬间 18",
+    "alt": "王旭个人旅行相册照片 18",
+    "width": 1080,
+    "height": 1440,
+    "bytes": 128139
+  },
+  {
+    "src": "assets/travel/travel-19.jpg",
+    "title": "旅行瞬间 19",
+    "alt": "王旭个人旅行相册照片 19",
+    "width": 1279,
+    "height": 1706,
+    "bytes": 322408
+  },
+  {
+    "src": "assets/travel/travel-20.jpg",
+    "title": "旅行瞬间 20",
+    "alt": "王旭个人旅行相册照片 20",
+    "width": 1279,
+    "height": 1706,
+    "bytes": 1010408
   }
 ]
